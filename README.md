@@ -42,6 +42,8 @@
 
 ---
 
+AWS Certified Solutions Architect Link -> https://www.credly.com/badges/9a6f0387-e535-41d1-8d4b-b88cdf6280eb
+
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-verma-91113b290/)
