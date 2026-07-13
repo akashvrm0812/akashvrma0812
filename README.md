@@ -1,7 +1,5 @@
 <div align="center">
 
-![Akash Verma Banner](banner.png)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Verma;AWS+Certified+Solutions+Architect;Cloud+%26+DevOps+Engineer;Terraform+%7C+Docker+%7C+GitHub+Actions)](https://git.io/typing-svg)
 
 </div>
