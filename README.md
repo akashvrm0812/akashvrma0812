@@ -29,7 +29,7 @@
 
 - **[aws-3tier-high-availability-architecture](https://github.com/akashvrm0812/aws-3tier-high-availability-architecture)** — Production-ready highly available 3-tier architecture on AWS using EC2, ALB, Auto Scaling, RDS, and CloudWatch with secure IAM and VPC configuration.
 - **[AWS-Security-Audit-Cost-Optimization](https://github.com/akashvrm0812/AWS-Security-Audit-Cost-Optimization)** — AWS Security Audit & Cost Optimization project with real-world security findings and remediation.
-- **[My-Projects-Practice-](https://github.com/akashvrm0812/My-Projects-Practice-)** — Practice projects and experiments.
+
 
 ---
 
