@@ -1,7 +1,6 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,50:7B2FF7,100:FF2E93&height=230&section=header&text=Akash%20Verma&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descSize=22&descAlignY=60" width="100%" alt="header"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,50:7B2FF7,100:FF2E93&height=230&section=header&text=Akash%20Verma&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descSize=22&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Verma;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;Cloud+%26+DevOps+Engineer+%F0%9F%9A%80;Terraform+%7C+Docker+%7C+GitHub+Actions+%E2%9A%99%EF%B8%8F;Building+Secure+%26+Scalable+Infrastructure+%F0%9F%94%90" alt="Typing SVG" />
@@ -23,7 +22,6 @@
 
 <br/>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
 ## 🚀 About Me
 
 <img align="right" height="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
@@ -45,7 +43,6 @@ goal:      Become an expert Cloud & DevOps Engineer 🎯
 
 <br/>
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -56,7 +53,6 @@ goal:      Become an expert Cloud & DevOps Engineer 🎯
 
 <br/>
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 📌 Featured Projects
 
 <table>
@@ -80,7 +76,6 @@ goal:      Become an expert Cloud & DevOps Engineer 🎯
 
 <br/>
 
-<!-- ═══════════════ STATS ═══════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -100,19 +95,6 @@ goal:      Become an expert Cloud & DevOps Engineer 🎯
 
 <br/>
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashvrm0812/akashvrm0812/output/github-snake-dark.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/akashvrm0812/akashvrm0812/output/github-snake.svg"/>
-  </picture>
-</div>
-
-<br/>
-
-<!-- ═══════════════ CERT ═══════════════ -->
 ## 🏆 Certification
 
 <div align="center">
@@ -125,7 +107,6 @@ goal:      Become an expert Cloud & DevOps Engineer 🎯
 
 <br/>
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
 ## 🤝 Connect With Me
 
 <div align="center">
