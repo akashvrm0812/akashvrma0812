@@ -16,8 +16,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-verma-91113b290/)
 [![GitHub](https://img.shields.io/badge/GitHub-akashvrm0812-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashvrm0812)
-![Profile Views](https://komarev.com/ghpvc/?username=akashvrm0812&label=Profile%20Views&color=FF9900&style=for-the-badge)
-
+   ![Profile Views](https://hits.sh/github.com/akashvrm0812.svg?style=for-the-badge&label=Profile%20Views&color=FF9900)
+   
 </div>
 
 ---
