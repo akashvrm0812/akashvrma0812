@@ -1,6 +1,6 @@
 <!-- Animated banner -->
 <div align="center">
-  <img src="./assets/banner.svg" alt="Akash Verma - Cloud & DevOps Engineer" width="100%" />
+   <img src="./banner.svg" alt="Akash Verma - Cloud & DevOps Engineer" width="100%" />
 </div>
 
 <!-- Typing animation -->
