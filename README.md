@@ -30,7 +30,7 @@ role:        Cloud & DevOps Engineer
 certified:   AWS Certified Solutions Architect
 focus:       [Cloud Architecture, IaC, CI/CD, Security, Cost Optimization]
 currently:   Building production-ready AWS projects with Terraform
-learning:    Kubernetes, Ansible, Observability (Prometheus & Grafana)
+learning:    Kubernetes
 goal:        Design cloud systems that are scalable, secure & cost-efficient
 ```
 
