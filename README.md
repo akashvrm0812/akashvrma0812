@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,50:7B2FF7,100:FF2E93&height=230&section=header&text=Akash%20Verma&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descSize=22&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,50:7B2FF7,100:FF2E93&height=230&section=header&text=Akash%20Verma&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descSize=22&descAlignY=60" width="100%" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Verma;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;Cloud+%26+DevOps+Engineer+%F0%9F%9A%80;Terraform+%7C+Docker+%7C+GitHub+Actions+%E2%9A%99%EF%B8%8F;Building+Secure+%26+Scalable+Infrastructure+%F0%9F%94%90" alt="Typing SVG" />
