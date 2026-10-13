@@ -1,6 +1,6 @@
-<!-- Animated header -->
+<!-- Animated banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:FF9900&height=220&section=header&text=Akash%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=22" width="100%" />
+  <img src="./assets/banner.svg" alt="Akash Verma - Cloud & DevOps Engineer" width="100%" />
 </div>
 
 <!-- Typing animation -->
