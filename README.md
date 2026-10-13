@@ -1,130 +1,109 @@
+
+<!-- ========== ANIMATED HEADER ========== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,50:7B2FF7,100:FF2E93&height=230&section=header&text=Akash%20Verma&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descSize=22&descAlignY=60" width="100%" alt="header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Akash+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Building+%E2%80%A2+Learning+%E2%80%A2+Growing;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Animated typing introduction" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Verma;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;Cloud+%26+DevOps+Engineer+%F0%9F%9A%80;Terraform+%7C+Docker+%7C+GitHub+Actions+%E2%9A%99%EF%B8%8F;Building+Secure+%26+Scalable+Infrastructure+%F0%9F%94%90" alt="Typing SVG" />
-</a>
+<h3>💻 Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</h3>
 
-<br/>
-
-<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=akashvrm0812&label=Profile%20Views&color=7B2FF7&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/akashvrm0812?label=Followers&style=for-the-badge&logo=github&color=00A8FF"/>
+<p>
+  <a href="https://github.com/akashvrm0812">
+    <img src="https://img.shields.io/badge/GitHub-Akash-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=akashvrm0812&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 </div>
 
-<br/>
+---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<img align="right" height="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
+Hi! I'm **Akash**, a developer who enjoys exploring technology, solving problems, and turning ideas into real-world projects.
 
-```yaml
-name:      Akash Verma
-role:      Cloud & DevOps Engineer
-cert:      AWS Certified Solutions Architect ☁️
-location:  India 📍
-focus:     [Cloud Security, Cost Optimization, Automation]
-tools:     [AWS, Terraform, Docker, GitHub Actions]
-goal:      Become an expert Cloud & DevOps Engineer 🎯
-```
+- 🔭 I'm working on improving my development skills and building projects.
+- 🌱 I'm continuously learning new technologies and tools.
+- 💡 I enjoy problem-solving and exploring creative ideas.
+- 🤝 I'm open to collaborating on interesting projects.
+- 🎯 My goal is to keep learning, building, and growing every day.
 
-- ☁️ Working with **AWS, Terraform, Docker & GitHub Actions**
-- 🏗️ Building **highly available, secure** cloud architectures
-- 🔐 Passionate about **Cloud Security, Cost Optimization & Automation**
-- 📈 Always learning, always shipping
+> *"Great things are built one line of code at a time."*
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
+<!-- Replace these examples with technologies you actually use. -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="Technology icons"/>
+</p>
+
+<p align="center">
+  <i>Learning something new every day. 🌱</i>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,linux,git,github,python,bash&theme=dark&perline=9" alt="skills"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akashvrm0812&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvrm0812&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=akashvrm0812&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-<br/>
+---
 
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏗️ AWS 3-Tier High Availability</h3>
-      <p>Production-ready, highly available architecture using <b>EC2, ALB, Auto Scaling, RDS & CloudWatch</b> with secure IAM and VPC configuration.</p>
-      <a href="https://github.com/akashvrm0812/aws-3tier-high-availability-architecture">
-        <img src="https://img.shields.io/badge/View%20Project-00A8FF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 AWS Security Audit & Cost Optimization</h3>
-      <p>Real-world <b>security findings, remediation</b> and cost-saving strategies for an AWS environment.</p>
-      <a href="https://github.com/akashvrm0812/AWS-Security-Audit-Cost-Optimization">
-        <img src="https://img.shields.io/badge/View%20Project-FF2E93?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Stats
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akashvrm0812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvrm0812&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=akashvrm0812&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashvrm0812&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="activity"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
-<br/>
+> **Note:** The snake animation requires a GitHub Actions workflow to generate its SVG. Set it up using the instructions in the [Platane/snk repository](https://github.com/Platane/snk).
 
-## 🏆 Certification
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace these examples with your actual project links. -->
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/9a6f0387-e535-41d1-8d4b-b88cdf6280eb">
-  <img src="https://img.shields.io/badge/Verify%20on%20Credly-AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<a href="https://github.com/akashvrm0812?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-7F5AF0?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 </div>
 
-<br/>
+Check out my repositories to discover what I'm building and learning.
 
-## 🤝 Connect With Me
+📌 **Tip:** Pin your best 3–5 repositories on your GitHub profile so visitors can find your strongest work quickly.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/akash-verma-91113b290/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 <a href="https://github.com/akashvrm0812">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.credly.com/badges/9a6f0387-e535-41d1-8d4b-b88cdf6280eb">
-  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="Visit GitHub"/>
 </a>
 
 <br/><br/>
 
-<i>"The cloud is just someone else's computer — I make sure it's a secure one."</i> ☁️🔐
+**Thanks for visiting my profile!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,50:7B2FF7,100:00A8FF&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=100&section=footer" width="100%" alt="Purple animated-style footer banner"/>
 
 </div>
