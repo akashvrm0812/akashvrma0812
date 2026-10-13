@@ -92,13 +92,6 @@ goal:        Design cloud systems that are scalable, secure & cost-efficient
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashvrm0812&theme=react-dark&bg_color=0d1117&color=FF9900&line=FF9900&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
----
 
 ## 🧠 Daily DevOps Mindset
 
